@@ -1,2 +1,2 @@
 # egus-love
-work on a case
+work on a case attentively 
